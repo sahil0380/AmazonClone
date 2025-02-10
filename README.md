@@ -1,1 +1,2 @@
-# AmazonClone
+# Amazon Clone
+Made by Sahil 
